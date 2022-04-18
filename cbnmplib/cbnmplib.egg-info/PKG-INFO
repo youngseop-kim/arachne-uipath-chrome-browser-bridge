@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: cbnmplib
+Version: 1.0.11
+Summary: chrome browser native messaging pipeline library
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: MIT
+Description: # chrome browser native messaging pipeline library 
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

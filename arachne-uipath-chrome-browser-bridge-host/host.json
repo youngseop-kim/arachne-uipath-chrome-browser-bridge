@@ -1,0 +1,10 @@
+{
+    "name": "com.arachne.uipath.chrome.browser.bridge.host",
+    "description": "arachne uipath chrome browser bridge host",
+    "path": "host.bat",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://dcgmnehcnnncofekjjoikncbikojekje/"
+        ]
+}
+
